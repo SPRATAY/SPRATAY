@@ -17,8 +17,7 @@ Here are some ideas to get you started:
 я хз зачем это сделал решил типо сделать красиво хуй знает надеюсь камуто будет норм, буду скидывать сюдя всякие сертификаты и тд для работы или что там еще я ваше хз пока так
 
 Вот моя конфигурация
-[xanmod](https://xanmod.org/) - ядро
-
+[xanmod](https://xanmod.org/) - ядро  
 [luks](https://gitlab.com/cryptsetup/cryptsetup/blob/master/README.md) - шифрование данных
 [btrfs](https://btrfs.readthedocs.io/en/latest/) - файловая система
 [sbctl](https://github.com/Foxboron/sbctl) - чтобы подписать ядро и его модули для загрузки при включеном secureboot
